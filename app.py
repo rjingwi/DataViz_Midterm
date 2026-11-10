@@ -1065,5 +1065,4 @@ st.divider()
 st.caption(
     "Sources: Bureau of Transportation Statistics (BTS) On-Time "
     "Performance; OurAirports; National Transportation Safety Board "
-    "(NTSB). Results are descriptive and do not establish causation."
 )
